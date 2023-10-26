@@ -1,0 +1,92 @@
+
+body{
+    font-family: sans-serif;
+    color: white;
+    font-family: 'Brady Bunch Remastered';
+    font-weight: bold;
+}
+.header{
+    background: #fe5000;
+}
+.navbar-toggler{
+    font-size: 16px;
+    color: white;
+    border-style: none;
+    font-weight: bolder;
+}
+.section-2{
+    font-weight: bolder;
+}
+.tapered-div,footer{
+    background: #db291d;
+    
+}
+section a{
+    text-decoration: none;
+}
+.dropdown-menu{
+    background: #fe5000;
+}
+.follow,.connect-with-us, form{
+    color: #7c2529;
+}
+footer li{
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.sticky-bottom {
+    bottom: 10px; /* Adjust this value as needed for your desired position */
+    left: 10px; /* Adjust this value as needed for your desired position */
+     /* Change the background color */
+    color: #fff; /* Change the text color */
+    padding: 10px;
+    border-radius: 50%; /* Make it a circle */
+}
+.products-box h3{
+    color: #5f249f;
+    font-weight: bolder;
+}
+.boxes{
+    max-width: 800px;
+}
+.boxes h4{
+    font-weight: bold;
+}
+.contact{
+    color: #5f249f;
+}
+.contact p{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+::placeholder{
+    font-weight: bold;
+    color: rgba(124,37,41,.7);
+}
+.form-border{
+    border: 0;
+    border-bottom: 5px solid #7c2529;
+}
+
+.table{
+    border: none;
+    color: #7c2529;
+}
+.table option,.table button,.table select{
+    font-weight: bold;
+    color: #7c2529;
+    background: white;
+}
+.table select:hover{
+    color: #7c2529;
+}
+.button-submit{
+    background: #5f249f;
+}
+.button-submit:hover{
+    background: #5f249f;
+}
+.table{
+    border: none;
+}
